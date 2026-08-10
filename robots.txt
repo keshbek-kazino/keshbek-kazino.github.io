@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: keshbek-kazino.github.io
+Sitemap: https://keshbek-kazino.github.io/sitemap.xml
